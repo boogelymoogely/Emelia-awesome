@@ -6,4 +6,5 @@ If you don't have multiple monitors or you don't wish to only use one HDMI monit
 
 Also, yes, I do use the Gnome terminal. Shame me if you want, I like it.
 
-To install it, all you need to do is extract the files into your awesome directory. For me, that would be /home/emelia/.config/awesome. It'll be different if you have a different username, which is highly likely, just change it accordingly. If you don'ot have the "awesome" directory created, no problem, just make one then copy the files into it and edit as needed.
+To install it, all you need to do is extract the files into your awesome directory. 
+For me, that would be /home/emelia/.config/awesome. It'll be different if you have a different username, which is highly likely, just change it accordingly. If you don'ot have the "awesome" directory created, no problem, just make one then copy the files into it and edit as needed.
