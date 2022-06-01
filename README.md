@@ -8,3 +8,7 @@ Also, yes, I do use the Gnome terminal. Shame me if you want, I like it.
 
 To install it, all you need to do is extract the files into your awesome directory. 
 For me, that would be /home/emelia/.config/awesome. It'll be different if you have a different username, which is highly likely, just change it accordingly. If you don'ot have the "awesome" directory created, no problem, just make one then copy the files into it and edit as needed. If you experience issues with tearing, use the version with "tearingfix" in the name. That should fix Compton/Picom and make it use Vsync, not sure how it'll be on other GPUs, but this fixes tearing issues for me on NVIDIA. Also, one should probably note that this is meant for an Arch-based distro. Package names are obviously differrent for different package managers, so if you wanna use this on something else, replace package names with their corresponding names on your distro. 
+
+Here are some screenshots of it in use, in case you're curious. 
+<img width="1719" alt="image" src="https://user-images.githubusercontent.com/66752943/171454926-9c57ce33-68e5-4878-bcfc-b4a9b88bb03c.png">
+<img width="1720" alt="image" src="https://user-images.githubusercontent.com/66752943/171454961-f43483e3-1d39-4566-96d2-3354239f445e.png">
