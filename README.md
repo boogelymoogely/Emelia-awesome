@@ -1,6 +1,6 @@
 # Emelia-awesome
 My Awesomewm config.
-It's based on the Arcolinux config (https://github.com/arcolinux/arcolinux-awesome) but with some modifications and scripts to suit my needs. Feel free to copy it, but don't just go and use it with no modifications, unless you use Linux exactly like I do, configure it to your liking. Also, feel free to use it as a reference for your own configuration. 
+It's based on the Arcolinux config (https://github.com/arcolinux/arcolinux-awesome) but with some modifications and scripts to suit my needs. Feel free to copy it, but don't just go and use it with no modifications, unless you use Linux exactly like I do, configure it to your liking. Also, feel free to use it as a reference for your own configuration. Also, do check out the different theme options available, those can be changed by changing the number in rc.lua to the corresponding theme of your choice on line 113.
 
 ------ display notice ------
 
