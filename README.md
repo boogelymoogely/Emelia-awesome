@@ -36,5 +36,3 @@ Here are some screenshots of it in use (I'm using the Multicolor theme at the mo
 <img width="1720" alt="image" src="https://user-images.githubusercontent.com/66752943/180327776-595a2592-7f79-419e-959f-af07110a5fd0.png">
 
 <img width="1720" alt="image" src="https://user-images.githubusercontent.com/66752943/180327847-5eb4fe82-420c-4f54-8e02-b50145b0093b.png">
-
-<img width="1720" alt="image" src="https://user-images.githubusercontent.com/66752943/180327873-e0477c4b-8b2a-45b8-b986-709a7416ab7f.png">
