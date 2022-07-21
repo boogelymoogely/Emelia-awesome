@@ -32,7 +32,9 @@ Dependencies include (and there are probably more, but here's what additional st
 
 Otherwise, this is just what I feel comfortable and enjoy using, have fun. :)
 
-Here are some (old) screenshots of it in use, in case you're curious. 
-<img width="1720" alt="image" src="https://user-images.githubusercontent.com/66752943/171455243-f2780019-3127-4759-b2df-c18b400a01a2.png">
+Here are some screenshots of it in use (I'm using the Multicolor theme at the moment) in case you're curious. 
+<img width="1720" alt="image" src="https://user-images.githubusercontent.com/66752943/180327776-595a2592-7f79-419e-959f-af07110a5fd0.png">
 
-<img width="1720" alt="image" src="https://user-images.githubusercontent.com/66752943/171454961-f43483e3-1d39-4566-96d2-3354239f445e.png">
+<img width="1720" alt="image" src="https://user-images.githubusercontent.com/66752943/180327847-5eb4fe82-420c-4f54-8e02-b50145b0093b.png">
+
+<img width="1720" alt="image" src="https://user-images.githubusercontent.com/66752943/180327873-e0477c4b-8b2a-45b8-b986-709a7416ab7f.png">
